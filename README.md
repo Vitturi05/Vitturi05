@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Vitturi</h1>
 <p align="center">° Estudante de Ciência da Computação - USCS (2025 - 2028)<br/>
 
-  <br/>° São Caetano do Sul, SP</p>
+  <p align ="center">° São Caetano do Sul, SP</p>
 
 <br/>
 <br/>
